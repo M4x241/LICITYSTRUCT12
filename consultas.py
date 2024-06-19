@@ -5,7 +5,7 @@ app = FastAPI()
 
 ##todo el json
 import json
-
+#nose
 # Abre el archivo JSON en modo lectura con el parametro "r"
 with open('platillos.json', 'r', encoding='utf-8') as archivo:
     datos = json.load(archivo)
