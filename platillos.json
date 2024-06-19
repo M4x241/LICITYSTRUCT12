@@ -1,0 +1,915 @@
+[
+  {
+    "nombre": "Moqueca",
+    "pais": "Brasil",
+    "valor_nutricional": {
+      "calorias": 350,
+      "grasas": 20,
+      "proteinas": 30,
+      "carbohidratos": 10,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Sushi",
+    "pais": "Japón",
+    "valor_nutricional": {
+      "calorias": 200,
+      "grasas": 5,
+      "proteinas": 15,
+      "carbohidratos": 25,
+      "fibra": 1
+    }
+  },
+  {
+    "nombre": "Tacos",
+    "pais": "México",
+    "valor_nutricional": {
+      "calorias": 300,
+      "grasas": 15,
+      "proteinas": 20,
+      "carbohidratos": 25,
+      "fibra": 2
+    }
+  },
+  {
+    "nombre": "Pizza Margherita",
+    "pais": "Italia",
+    "valor_nutricional": {
+      "calorias": 270,
+      "grasas": 12,
+      "proteinas": 14,
+      "carbohidratos": 30,
+      "fibra": 2
+    }
+  },
+  {
+    "nombre": "Paella",
+    "pais": "España",
+    "valor_nutricional": {
+      "calorias": 400,
+      "grasas": 15,
+      "proteinas": 30,
+      "carbohidratos": 35,
+      "fibra": 4
+    }
+  },
+  {
+    "nombre": "Curry",
+    "pais": "India",
+    "valor_nutricional": {
+      "calorias": 250,
+      "grasas": 10,
+      "proteinas": 20,
+      "carbohidratos": 20,
+      "fibra": 5
+    }
+  },
+  {
+    "nombre": "Poutine",
+    "pais": "Canadá",
+    "valor_nutricional": {
+      "calorias": 450,
+      "grasas": 25,
+      "proteinas": 15,
+      "carbohidratos": 40,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Sauerbraten",
+    "pais": "Alemania",
+    "valor_nutricional": {
+      "calorias": 350,
+      "grasas": 18,
+      "proteinas": 25,
+      "carbohidratos": 15,
+      "fibra": 2
+    }
+  },
+  {
+    "nombre": "Bobotie",
+    "pais": "Sudáfrica",
+    "valor_nutricional": {
+      "calorias": 300,
+      "grasas": 15,
+      "proteinas": 20,
+      "carbohidratos": 20,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Feijoada",
+    "pais": "Brasil",
+    "valor_nutricional": {
+      "calorias": 500,
+      "grasas": 25,
+      "proteinas": 35,
+      "carbohidratos": 45,
+      "fibra": 10
+    }
+  },
+  {
+    "nombre": "Ratatouille",
+    "pais": "Francia",
+    "valor_nutricional": {
+      "calorias": 150,
+      "grasas": 7,
+      "proteinas": 3,
+      "carbohidratos": 20,
+      "fibra": 5
+    }
+  },
+  {
+    "nombre": "Moussaka",
+    "pais": "Grecia",
+    "valor_nutricional": {
+      "calorias": 400,
+      "grasas": 20,
+      "proteinas": 25,
+      "carbohidratos": 30,
+      "fibra": 4
+    }
+  },
+  {
+    "nombre": "Pho",
+    "pais": "Vietnam",
+    "valor_nutricional": {
+      "calorias": 350,
+      "grasas": 10,
+      "proteinas": 20,
+      "carbohidratos": 50,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Ceviche",
+    "pais": "Perú",
+    "valor_nutricional": {
+      "calorias": 200,
+      "grasas": 5,
+      "proteinas": 25,
+      "carbohidratos": 10,
+      "fibra": 2
+    }
+  },
+  {
+    "nombre": "Shakshuka",
+    "pais": "Israel",
+    "valor_nutricional": {
+      "calorias": 250,
+      "grasas": 15,
+      "proteinas": 10,
+      "carbohidratos": 20,
+      "fibra": 5
+    }
+  },
+  {
+    "nombre": "Tagine",
+    "pais": "Marruecos",
+    "valor_nutricional": {
+      "calorias": 300,
+      "grasas": 15,
+      "proteinas": 20,
+      "carbohidratos": 25,
+      "fibra": 6
+    }
+  },
+  {
+    "nombre": "Haggis",
+    "pais": "Escocia",
+    "valor_nutricional": {
+      "calorias": 350,
+      "grasas": 25,
+      "proteinas": 15,
+      "carbohidratos": 20,
+      "fibra": 4
+    }
+  },
+  {
+    "nombre": "Kebab",
+    "pais": "Turquía",
+    "valor_nutricional": {
+      "calorias": 450,
+      "grasas": 30,
+      "proteinas": 25,
+      "carbohidratos": 20,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Pad Thai",
+    "pais": "Tailandia",
+    "valor_nutricional": {
+      "calorias": 400,
+      "grasas": 20,
+      "proteinas": 20,
+      "carbohidratos": 50,
+      "fibra": 4
+    }
+  },
+  {
+    "nombre": "Empanadas",
+    "pais": "Argentina",
+    "valor_nutricional": {
+      "calorias": 300,
+      "grasas": 15,
+      "proteinas": 10,
+      "carbohidratos": 35,
+      "fibra": 2
+    }
+  },
+  {
+    "nombre": "Pierogi",
+    "pais": "Polonia",
+    "valor_nutricional": {
+      "calorias": 250,
+      "grasas": 10,
+      "proteinas": 7,
+      "carbohidratos": 35,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Bulgogi",
+    "pais": "Corea del Sur",
+    "valor_nutricional": {
+      "calorias": 400,
+      "grasas": 20,
+      "proteinas": 30,
+      "carbohidratos": 20,
+      "fibra": 2
+    }
+  },
+  {
+    "nombre": "Baklava",
+    "pais": "Turquía",
+    "valor_nutricional": {
+      "calorias": 300,
+      "grasas": 20,
+      "proteinas": 5,
+      "carbohidratos": 35,
+      "fibra": 1
+    }
+  },
+  {
+    "nombre": "Churrasco",
+    "pais": "Brasil",
+    "valor_nutricional": {
+      "calorias": 500,
+      "grasas": 30,
+      "proteinas": 40,
+      "carbohidratos": 5,
+      "fibra": 0
+    }
+  },
+  {
+    "nombre": "Bratwurst",
+    "pais": "Alemania",
+    "valor_nutricional": {
+      "calorias": 350,
+      "grasas": 28,
+      "proteinas": 15,
+      "carbohidratos": 5,
+      "fibra": 1
+    }
+  },
+  {
+    "nombre": "Samosa",
+    "pais": "India",
+    "valor_nutricional": {
+      "calorias": 250,
+      "grasas": 15,
+      "proteinas": 5,
+      "carbohidratos": 30,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Fajitas",
+    "pais": "México",
+    "valor_nutricional": {
+      "calorias": 350,
+      "grasas": 20,
+      "proteinas": 25,
+      "carbohidratos": 30,
+      "fibra": 4
+    }
+  },
+  {
+    "nombre": "Lamingtons",
+    "pais": "Australia",
+    "valor_nutricional": {
+      "calorias": 150,
+      "grasas": 7,
+      "proteinas": 2,
+      "carbohidratos": 20,
+      "fibra": 1
+    }
+  },
+  {
+    "nombre": "Pavlova",
+    "pais": "Nueva Zelanda",
+    "valor_nutricional": {
+      "calorias": 250,
+      "grasas": 8,
+      "proteinas": 4,
+      "carbohidratos": 40,
+      "fibra": 2
+    }
+  },
+  {
+    "nombre": "Rendang",
+    "pais": "Indonesia",
+    "valor_nutricional": {
+      "calorias": 450,
+      "grasas": 35,
+      "proteinas": 25,
+      "carbohidratos": 10,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Kimchi",
+    "pais": "Corea del Sur",
+    "valor_nutricional": {
+      "calorias": 50,
+      "grasas": 2,
+      "proteinas": 3,
+      "carbohidratos": 10,
+      "fibra": 4
+    }
+  },
+  {
+    "nombre": "Falafel",
+    "pais": "Israel",
+    "valor_nutricional": {
+      "calorias": 300,
+      "grasas": 17,
+      "proteinas": 10,
+      "carbohidratos": 30,
+      "fibra": 5
+    }
+  },
+  {
+    "nombre": "Bibimbap",
+    "pais": "Corea del Sur",
+    "valor_nutricional": {
+      "calorias": 500,
+      "grasas": 20,
+      "proteinas": 25,
+      "carbohidratos": 60,
+      "fibra": 6
+    }
+  },
+  {
+    "nombre": "Pav Bhaji",
+    "pais": "India",
+    "valor_nutricional": {
+      "calorias": 400,
+      "grasas": 18,
+      "proteinas": 10,
+      "carbohidratos": 50,
+      "fibra": 5
+    }
+  },
+  {
+    "nombre": "Dim Sum",
+    "pais": "China",
+    "valor_nutricional": {
+      "calorias": 200,
+      "grasas": 10,
+      "proteinas": 10,
+      "carbohidratos": 20,
+      "fibra": 2
+    }
+  },
+  {
+    "nombre": "Goulash",
+    "pais": "Hungría",
+    "valor_nutricional": {
+      "calorias": 350,
+      "grasas": 15,
+      "proteinas": 25,
+      "carbohidratos": 25,
+      "fibra": 4
+    }
+  },
+  {
+    "nombre": "Köttbullar",
+    "pais": "Suecia",
+    "valor_nutricional": {
+      "calorias": 300,
+      "grasas": 20,
+      "proteinas": 20,
+      "carbohidratos": 15,
+      "fibra": 2
+    }
+  },
+  {
+    "nombre": "Pisco Sour",
+    "pais": "Perú",
+    "valor_nutricional": {
+      "calorias": 150,
+      "grasas": 0,
+      "proteinas": 0,
+      "carbohidratos": 10,
+      "fibra": 0
+    }
+  },
+  {
+    "nombre": "Borscht",
+    "pais": "Rusia",
+    "valor_nutricional": {
+      "calorias": 150,
+      "grasas": 5,
+      "proteinas": 5,
+      "carbohidratos": 20,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Couscous",
+    "pais": "Marruecos",
+    "valor_nutricional": {
+      "calorias": 200,
+      "grasas": 1,
+      "proteinas": 6,
+      "carbohidratos": 40,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Laksa",
+    "pais": "Malasia",
+    "valor_nutricional": {
+      "calorias": 400,
+      "grasas": 20,
+      "proteinas": 15,
+      "carbohidratos": 50,
+      "fibra": 5
+    }
+  },
+  {
+    "nombre": "Churros",
+    "pais": "España",
+    "valor_nutricional": {
+      "calorias": 300,
+      "grasas": 20,
+      "proteinas": 5,
+      "carbohidratos": 30,
+      "fibra": 2
+    }
+  },
+  {
+    "nombre": "Tom Yum",
+    "pais": "Tailandia",
+    "valor_nutricional": {
+      "calorias": 200,
+      "grasas": 10,
+      "proteinas": 10,
+      "carbohidratos": 20,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Tandoori Chicken",
+    "pais": "India",
+    "valor_nutricional": {
+      "calorias": 300,
+      "grasas": 15,
+      "proteinas": 30,
+      "carbohidratos": 10,
+      "fibra": 1
+    }
+  },
+  {
+    "nombre": "Piernik",
+    "pais": "Polonia",
+    "valor_nutricional": {
+      "calorias": 250,
+      "grasas": 10,
+      "proteinas": 3,
+      "carbohidratos": 35,
+      "fibra": 2
+    }
+  },
+  {
+    "nombre": "Nasi Goreng",
+    "pais": "Indonesia",
+    "valor_nutricional": {
+      "calorias": 450,
+      "grasas": 20,
+      "proteinas": 20,
+      "carbohidratos": 50,
+      "fibra": 4
+    }
+  },
+  {
+    "nombre": "Arepas",
+    "pais": "Venezuela",
+    "valor_nutricional": {
+      "calorias": 300,
+      "grasas": 10,
+      "proteinas": 7,
+      "carbohidratos": 40,
+      "fibra": 5
+    }
+  },
+  {
+    "nombre": "Kibbeh",
+    "pais": "Líbano",
+    "valor_nutricional": {
+      "calorias": 250,
+      "grasas": 10,
+      "proteinas": 15,
+      "carbohidratos": 20,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Acarajé",
+    "pais": "Brasil",
+    "valor_nutricional": {
+      "calorias": 500,
+      "grasas": 30,
+      "proteinas": 15,
+      "carbohidratos": 40,
+      "fibra": 6
+    }
+  },
+  {
+    "nombre": "Koshari",
+    "pais": "Egipto",
+    "valor_nutricional": {
+      "calorias": 400,
+      "grasas": 10,
+      "proteinas": 15,
+      "carbohidratos": 70,
+      "fibra": 10
+    }
+  },
+  {
+    "nombre": "Pollo a la Brasa",
+    "pais": "Perú",
+    "valor_nutricional": {
+      "calorias": 500,
+      "grasas": 25,
+      "proteinas": 40,
+      "carbohidratos": 10,
+      "fibra": 2
+    }
+  },
+  {
+    "nombre": "Risotto",
+    "pais": "Italia",
+    "valor_nutricional": {
+      "calorias": 350,
+      "grasas": 15,
+      "proteinas": 10,
+      "carbohidratos": 45,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Jollof Rice",
+    "pais": "Nigeria",
+    "valor_nutricional": {
+      "calorias": 300,
+      "grasas": 10,
+      "proteinas": 5,
+      "carbohidratos": 50,
+      "fibra": 4
+    }
+  },
+  {
+    "nombre": "Fish and Chips",
+    "pais": "Reino Unido",
+    "valor_nutricional": {
+      "calorias": 600,
+      "grasas": 30,
+      "proteinas": 25,
+      "carbohidratos": 60,
+      "fibra": 5
+    }
+  },
+  {
+    "nombre": "Pancakes",
+    "pais": "Estados Unidos",
+    "valor_nutricional": {
+      "calorias": 200,
+      "grasas": 10,
+      "proteinas": 5,
+      "carbohidratos": 25,
+      "fibra": 1
+    }
+  },
+  {
+    "nombre": "Sauerbraten",
+    "pais": "Alemania",
+    "valor_nutricional": {
+      "calorias": 350,
+      "grasas": 18,
+      "proteinas": 25,
+      "carbohidratos": 15,
+      "fibra": 2
+    }
+  },
+  {
+    "nombre": "Enchiladas",
+    "pais": "México",
+    "valor_nutricional": {
+      "calorias": 400,
+      "grasas": 20,
+      "proteinas": 20,
+      "carbohidratos": 40,
+      "fibra": 4
+    }
+  },
+  {
+    "nombre": "Clam Chowder",
+    "pais": "Estados Unidos",
+    "valor_nutricional": {
+      "calorias": 250,
+      "grasas": 15,
+      "proteinas": 10,
+      "carbohidratos": 20,
+      "fibra": 2
+    }
+  },
+  {
+    "nombre": "Fufu",
+    "pais": "Ghana",
+    "valor_nutricional": {
+      "calorias": 350,
+      "grasas": 5,
+      "proteinas": 5,
+      "carbohidratos": 75,
+      "fibra": 4
+    }
+  },
+  {
+    "nombre": "Caesar Salad",
+    "pais": "México",
+    "valor_nutricional": {
+      "calorias": 200,
+      "grasas": 15,
+      "proteinas": 7,
+      "carbohidratos": 10,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Tom Kha Gai",
+    "pais": "Tailandia",
+    "valor_nutricional": {
+      "calorias": 300,
+      "grasas": 20,
+      "proteinas": 15,
+      "carbohidratos": 20,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Gyoza",
+    "pais": "Japón",
+    "valor_nutricional": {
+      "calorias": 250,
+      "grasas": 10,
+      "proteinas": 10,
+      "carbohidratos": 30,
+      "fibra": 2
+    }
+  },
+  {
+    "nombre": "Coq au Vin",
+    "pais": "Francia",
+    "valor_nutricional": {
+      "calorias": 400,
+      "grasas": 20,
+      "proteinas": 35,
+      "carbohidratos": 10,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Chow Mein",
+    "pais": "China",
+    "valor_nutricional": {
+      "calorias": 350,
+      "grasas": 15,
+      "proteinas": 15,
+      "carbohidratos": 45,
+      "fibra": 4
+    }
+  },
+  {
+    "nombre": "Katsudon",
+    "pais": "Japón",
+    "valor_nutricional": {
+      "calorias": 500,
+      "grasas": 25,
+      "proteinas": 25,
+      "carbohidratos": 50,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Baba Ghanoush",
+    "pais": "Líbano",
+    "valor_nutricional": {
+      "calorias": 200,
+      "grasas": 15,
+      "proteinas": 5,
+      "carbohidratos": 15,
+      "fibra": 5
+    }
+  },
+  {
+    "nombre": "Gazpacho",
+    "pais": "España",
+    "valor_nutricional": {
+      "calorias": 150,
+      "grasas": 7,
+      "proteinas": 3,
+      "carbohidratos": 20,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Rogan Josh",
+    "pais": "India",
+    "valor_nutricional": {
+      "calorias": 400,
+      "grasas": 25,
+      "proteinas": 25,
+      "carbohidratos": 25,
+      "fibra": 4
+    }
+  },
+  {
+    "nombre": "Kimbap",
+    "pais": "Corea del Sur",
+    "valor_nutricional": {
+      "calorias": 300,
+      "grasas": 10,
+      "proteinas": 10,
+      "carbohidratos": 40,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Steak Tartare",
+    "pais": "Francia",
+    "valor_nutricional": {
+      "calorias": 250,
+      "grasas": 20,
+      "proteinas": 15,
+      "carbohidratos": 5,
+      "fibra": 1
+    }
+  },
+  {
+    "nombre": "Mango Sticky Rice",
+    "pais": "Tailandia",
+    "valor_nutricional": {
+      "calorias": 300,
+      "grasas": 10,
+      "proteinas": 5,
+      "carbohidratos": 50,
+      "fibra": 2
+    }
+  },
+  {
+    "nombre": "Menemen",
+    "pais": "Turquía",
+    "valor_nutricional": {
+      "calorias": 200,
+      "grasas": 15,
+      "proteinas": 10,
+      "carbohidratos": 10,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Stuffed Grape Leaves",
+    "pais": "Grecia",
+    "valor_nutricional": {
+      "calorias": 150,
+      "grasas": 5,
+      "proteinas": 3,
+      "carbohidratos": 20,
+      "fibra": 2
+    }
+  },
+  {
+    "nombre": "Khachapuri",
+    "pais": "Georgia",
+    "valor_nutricional": {
+      "calorias": 400,
+      "grasas": 25,
+      "proteinas": 15,
+      "carbohidratos": 40,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Oysters Rockefeller",
+    "pais": "Estados Unidos",
+    "valor_nutricional": {
+      "calorias": 200,
+      "grasas": 15,
+      "proteinas": 5,
+      "carbohidratos": 5,
+      "fibra": 1
+    }
+  },
+  {
+    "nombre": "Shabu Shabu",
+    "pais": "Japón",
+    "valor_nutricional": {
+      "calorias": 350,
+      "grasas": 20,
+      "proteinas": 30,
+      "carbohidratos": 5,
+      "fibra": 2
+    }
+  },
+  {
+    "nombre": "Bouillabaisse",
+    "pais": "Francia",
+    "valor_nutricional": {
+      "calorias": 300,
+      "grasas": 15,
+      "proteinas": 25,
+      "carbohidratos": 20,
+      "fibra": 4
+    }
+  },
+  {
+    "nombre": "Tortilla de Patatas",
+    "pais": "España",
+    "valor_nutricional": {
+      "calorias": 350,
+      "grasas": 20,
+      "proteinas": 10,
+      "carbohidratos": 35,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Dosa",
+    "pais": "India",
+    "valor_nutricional": {
+      "calorias": 250,
+      "grasas": 10,
+      "proteinas": 5,
+      "carbohidratos": 35,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Pelmeni",
+    "pais": "Rusia",
+    "valor_nutricional": {
+      "calorias": 300,
+      "grasas": 15,
+      "proteinas": 15,
+      "carbohidratos": 30,
+      "fibra": 2
+    }
+  },
+  {
+    "nombre": "Dolma",
+    "pais": "Turquía",
+    "valor_nutricional": {
+      "calorias": 150,
+      "grasas": 7,
+      "proteinas": 5,
+      "carbohidratos": 15,
+      "fibra": 3
+    }
+  },
+  {
+    "nombre": "Pavlova",
+    "pais": "Nueva Zelanda",
+    "valor_nutricional": {
+      "calorias": 250,
+      "grasas": 8,
+      "proteinas": 4,
+      "carbohidratos": 40,
+      "fibra": 2
+    }
+  },
+  {
+    "nombre": "Biryani",
+    "pais": "India",
+    "valor_nutricional": {
+      "calorias": 450,
+      "grasas": 20,
+      "proteinas": 20,
+      "carbohidratos": 55,
+      "fibra": 4
+    }
+  }
+]
